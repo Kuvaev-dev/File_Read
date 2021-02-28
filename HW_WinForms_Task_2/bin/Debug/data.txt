@@ -1,5 +1,0 @@
-
-Имя: System.Windows.Forms.TextBox, Text: sss
-Фамилия: System.Windows.Forms.TextBox, Text: sss
-Номер телефона: System.Windows.Forms.TextBox, Text: ssss
-E-mail: System.Windows.Forms.TextBox, Text: ssss
